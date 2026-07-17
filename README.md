@@ -1,4 +1,4 @@
-# Hi, I'm Faith Kangogo 👋
+# Hi, I'm Faith Kangogo :)
 
 **Data Analyst** | Python · SQL · Power BI · Excel
 
