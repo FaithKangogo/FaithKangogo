@@ -1,4 +1,4 @@
-# Hi, I'm Faith Kangogo 👋
+# Hi, I'm Faith Kangogo 
 
 **Business Intelligence | Data Analytics** | Python · SQL · Power BI · Excel
 
@@ -6,7 +6,7 @@ I started out in finance and accounting, where I saw first-hand how better infor
 
 One thing I have learned is that data rarely tells the whole story on its own. Understanding the business context and asking the right questions matter just as much as the analysis. The projects below reflect that: each one starts with a business question and ends with findings a stakeholder can act on.
 
-📫 [jepchumbakangogo@gmail.com](mailto:jepchumbakangogo@gmail.com) · ✍️ [Medium](https://medium.com/@faithkangogo)
+ [jepchumbakangogo@gmail.com](mailto:jepchumbakangogo@gmail.com) ·  [Medium](https://medium.com/@faithkangogo)
 
 ---
 
