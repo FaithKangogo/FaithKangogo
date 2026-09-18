@@ -22,7 +22,7 @@ End-to-end analysis of 3,231 Stockholm Airbnb listings to find what drives night
 - Welch's t-test showed Superhost status has **no significant price premium** (p = 0.09)
 
 ### [Startup Expansion Strategy Dashboard](https://github.com/FaithKangogo/powerbi-startup-expansion)
-**Power BI · DAX · Excel**
+**Power BI · DAX **
 
 Interactive dashboard advising a startup on marketing allocation across its 150 stores and 10 new expansion cities, combining store sales with city demographic data.
 
