@@ -1,6 +1,6 @@
 # Hi there, I'm Faith Kangogo
 
-**Business Intelligence | Data Analytics** | Python · SQL · Power BI · Excel
+**Business Intelligence | Data Analytics | Python · SQL · Power BI · Excel**
 
 I started out in finance and accounting, where I saw first-hand how better information leads to better decisions. That curiosity grew into a career in Business Intelligence, supported by a Master's degree in the field and experience working with data and cross-functional teams in Kenya and Sweden.
 
