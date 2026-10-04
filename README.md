@@ -1,16 +1,24 @@
-# Hi there, I'm Faith Kangogo 
+# Hi there, I'm Faith Kangogo
 
 **Business Intelligence | Data Analytics** | Python · SQL · Power BI · Excel
 
-I started out in finance and accounting, where I saw first-hand how better information leads to better decisions. That curiosity grew into a career in Business Intelligence: a Master's degree in the field, and today a role on international initiatives at Inter IKEA Group, where I work with data from multiple sources to help teams plan, prioritise, and make informed decisions.
+I started out in finance and accounting, where I saw first-hand how better information leads to better decisions. That curiosity grew into a career in Business Intelligence, supported by a Master's degree in the field and experience working with data and cross-functional teams in Kenya and Sweden.
 
-One thing I have learned is that data rarely tells the whole story on its own. Understanding the business context and asking the right questions matter just as much as the analysis. The projects below reflect that: each one starts with a business question and ends with findings a stakeholder can act on.
+One thing I have learned is that data rarely tells the whole story on its own. Understanding the context and asking the right questions matter just as much as the analysis. The projects below reflect that: each one starts with a real-world question and uses data to arrive at useful findings.
 
- [jepchumbakangogo@gmail.com](mailto:jepchumbakangogo@gmail.com) ·  [Medium](https://medium.com/@faithkangogo)
+[jepchumbakangogo@gmail.com](mailto:jepchumbakangogo@gmail.com) · [Medium](https://medium.com/@faithkangogo)
 
 ---
 
 ## Featured Projects
+### [African Electricity Access Analysis](https://github.com/FaithKangogo/african-electricity-access-analysis)
+**Python · pandas · World Bank API · Matplotlib · Data Quality**
+
+Reproducible analysis of electricity-access trends across six African countries from 2010 to 2024 using World Bank data.
+
+- Built an API-to-analysis workflow that preserves raw JSON, standardises country-year data, and documents data provenance
+- Validated 90 observations with **no missing values, duplicate country-years, or values outside 0–100%**
+- Found Kenya recorded the largest increase, from **19.2% to 77.0%**, while the highest-to-lowest access range narrowed from **76.5 to 43.4 percentage points**
 
 ### [Stockholm Airbnb Market Analysis](https://github.com/FaithKangogo/Stockholm-Airbnb-Analysis)
 **Python · SQL (SQLite) · pandas · scipy · seaborn**
@@ -52,4 +60,4 @@ Analysis of 1,000 customer records to profile who buys bikes and why, presented 
 
 ---
 
-*Always learning: new projects in SQL and Python are on the way. Feedback and collaboration welcome!*
+**Interested in practical data work that connects analysis with real-world decisions, particularly in business and development contexts.**
